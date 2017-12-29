@@ -24,6 +24,9 @@ public class MainActivity extends AppCompatActivity {
                 f.replace(R.id.change,new BlankFragment());
                 f.commit();
 
+
+
+                
             }
         });
     }
